@@ -1,4 +1,4 @@
-FROM larcnhan/base:0.3
+FROM larcnhan/base:0.2
 
 MAINTAINER LancnHan <larcnhan@126.com>
 
